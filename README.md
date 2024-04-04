@@ -20,6 +20,8 @@ Example:
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
+Jump and melee dash to increase distance covered, introducted by the breakable structure at the start right next to a jump that is too far for normal jumping.
+
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
