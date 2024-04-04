@@ -7,6 +7,8 @@ This document discusses and reflects on the design of your platformer level for 
 
 Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
 
+Left and right click to shoot making combat intuitive 
+
 ```
 ![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
 ```
