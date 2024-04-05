@@ -7,6 +7,8 @@ This document discusses and reflects on the design of your platformer level for 
 
 Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
 
+Left and right click to shoot making combat intuitive 
+
 ```
 ![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
 ```
@@ -17,6 +19,8 @@ Example:
 
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
+
+Jump and melee dash to increase distance covered, introducted by the breakable structure at the start right next to a jump that is too far for normal jumping.
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
