@@ -1,4 +1,3 @@
-<img width="564" alt="RoomOfPain needed hill spikes to block melee dash and bHops to constrain the player to intented experience" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/e64fafad-79ad-494b-86cb-079cc2479bd5">[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
 ### Name: [Mingyou Han]
 ### Student number: [46991808] 
@@ -86,13 +85,25 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
+<br /> Throw away prototyping 
+
+### scrapbook Map design
+![HERO_map topology](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/6201fb7e-5a1e-4ddc-ae0b-476ecd455c2a)
+
+### E to H join room concept
+![E_H-room concept topology](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/fcf11c27-1f36-4ac1-b7c3-fe91f6bce70e)
+
+### R stairway with moving platforms
+![R_room Concept topology](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/87a61132-1515-49ec-927c-6db9e15c91aa)
+
+<br />
+E to H join room feasibility check
 ![Uploading RoomOfPain needed hill spikes to block melee dash and bHops<img width="430" alt="TryingIfGameIdea is fesible 1 moving platform horonzital " src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/089eb7fd-1b51-4e7f-94b1-0d0759bc9aaa">
 
 <img width="608" alt="RoomOfPainTrial 1" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/3ade0c57-d656-4157-8b12-94bc933e4e2d">
  to constrain the player to intented experience.png…]()
 
- feasibility check for my level ideas <img width="564" alt="RoomOfPain needed hill spikes to block melee dash and bHops to constrain the player to intented experience" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/fc6aca43-f503-4c3d-adf3-3c887e4ee7f1">
-
+ feasibility check for "R stairway with moving platforms" <img width="564" alt="RoomOfPain needed hill spikes to block melee dash and bHops to constrain the player to intented experience" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/fc6aca43-f503-4c3d-adf3-3c887e4ee7f1">
 
 ## Generative AI Use Acknowledgement
 
