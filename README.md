@@ -101,7 +101,7 @@ E to H join room feasibility check
 ![Uploading RoomOfPain needed hill spikes to block melee dash and bHops<img width="430" alt="TryingIfGameIdea is fesible 1 moving platform horonzital " src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/089eb7fd-1b51-4e7f-94b1-0d0759bc9aaa">
 
 <img width="608" alt="RoomOfPainTrial 1" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/3ade0c57-d656-4157-8b12-94bc933e4e2d">
- to constrain the player to intented experience.png…]()
+ Found the need to constrain the player for the intended experience.
 
  feasibility check for "R stairway with moving platforms" <img width="564" alt="RoomOfPain needed hill spikes to block melee dash and bHops to constrain the player to intented experience" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/fc6aca43-f503-4c3d-adf3-3c887e4ee7f1">
 
