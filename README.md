@@ -18,7 +18,7 @@ Example:
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
-Jump and melee dash to increase distance covered, introducted by the breakable structure at the start right next to a jump that is too far for normal jumping.
+Jump and melee dash to increase the distance covered, introduced by the breakable structure at the start right next to a jump that is too far for normal jumping.
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
@@ -27,16 +27,25 @@ The map is circular where advanced mechanics such as jump melee dash need to be 
 This allows players who choose to have a challenge, especially a more experimental and experimental player with more skill levels. 
 The gun provided later adds to the challenge.
 
-I chose a circular design to fit the narrative of a hero`s journey where the end is a return to the beginning allowing for a sense of progression and reward.
+I chose a circular design to fit the narrative of a hero`s journey where the end is a return to the beginning allowing for a sense of progression and reward. Introducing multiple mechanics such as dash jump and using spikes to wall jump. Discovery is facilitated through experimenting with different controls, discovering more dynamics created.
+
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
+The centre room provides both the function of an overlook point to the entire level and a break room to create a "safety" This box uses negative space to crave out the centre of the map emphasising the importance of space and creating a "home" base.
+
+
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
+The main challenge is controlling the dash jump as players already learnt the basic movements. Requires intuitive understanding of jump distance and patience to pass the final Room 3. 
+
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+Although the rewards is limited due to lack of collectables and upgrades, 
+I have decided to use the geometry of letters to spell the word ‘Hero’ as player exploration around the letter should form to puzzle together the final word, creating a desire to explore and find out what the letter spelt. I have also added shortcuts via breakable obstacles which players can keep an eye out for.
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
@@ -68,17 +77,20 @@ You should restructure the headings below to match the order they appear in your
 ### 2.11. Weapon Pickup (Staff)
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
+![Game design sequence](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/50f79fb8-e445-48d5-86d5-c692149258cb)
 
 ### 3.2. Level Map – Section 1
+![level 1](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/4014559b-b945-4492-8438-6b6246fb4394)
 
 ### 3.3.	Level Map – Section 2
+![room of pain](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/0d91ef5c-9ac2-4841-a275-892baf8f4dc9)
 
 ### 3.4.	Level Map – Section 3
+![level 3](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/eb9b703a-ddeb-49ad-90d8-84bfd954f1da)
+## Level Map Compiled
+![Overall Map Compiled](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/d56363f5-49a9-4e13-a782-d902361983a4)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
@@ -105,24 +117,6 @@ E to H join room feasibility check
 
  feasibility check for "R stairway with moving platforms" <img width="564" alt="RoomOfPain needed hill spikes to block melee dash and bHops to constrain the player to intented experience" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/fc6aca43-f503-4c3d-adf3-3c887e4ee7f1">
 
-## Generative AI Use Acknowledgement
 
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
 
 
