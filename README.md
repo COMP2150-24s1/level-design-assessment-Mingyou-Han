@@ -24,10 +24,15 @@ Jump and melee dash to increase the distance covered, introduced by the breakabl
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
 The map is circular where advanced mechanics such as jump melee dash need to be hit perfectly to jump from the start to the "end" of the tail. 
+
+Discovery is facilitated through experimenting with different controls, and discovering more dynamics created also creating fun via subversion specifically for the markers who probably play a dozen or so times of the same game.
+
+![knockBACKidea for exploration](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/c064cbc1-e173-4ef0-be2e-cc93185ed9d7)
+
 This allows players who choose to have a challenge, especially a more experimental and experimental player with more skill levels. 
 The gun provided later adds to the challenge.
 
-I chose a circular design to fit the narrative of a hero`s journey where the end is a return to the beginning allowing for a sense of progression and reward. Introducing multiple mechanics such as dash jump and using spikes to wall jump. Discovery is facilitated through experimenting with different controls, discovering more dynamics created.
+I chose a circular design to fit the narrative of a hero`s journey where the end is a return to the beginning allowing for a sense of progression and reward. Introducing multiple mechanics such as dash jump and using spikes to wall jump. 
 
 
 ### 1.2. Drama
@@ -44,8 +49,16 @@ The main challenge is controlling the dash jump as players already learnt the ba
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
+The beautiful background vistas itself vistas can act as a form of reward to exploration 
+
+<img width="553" alt="BACKground ITself vistas can acts as a form of discovery " src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/69d780bc-abba-493d-a619-a2724c3438a4">
+
 Although the rewards is limited due to lack of collectables and upgrades, 
 I have decided to use the geometry of letters to spell the word ‘Hero’ as player exploration around the letter should form to puzzle together the final word, creating a desire to explore and find out what the letter spelt. I have also added shortcuts via breakable obstacles which players can keep an eye out for.
+
+### Puzzle piece to spell out the word *Hints at the map layout.
+Knowledge gained can also be a form of reward.
+<img width="395" alt="Knowledge Assistance to spellOut the word" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/0f50365a-6561-4e50-9a74-242ad686dea8">
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
@@ -69,6 +82,9 @@ You should restructure the headings below to match the order they appear in your
 ### 2.7. Passthrough Platforms
 
 ### 2.8. Spikes
+
+![knockBACKidea for exploration](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/845fe074-1b8a-45a7-aa7e-f2aad4367a00)
+
 
 ### 2.9. Spitters
 
@@ -117,6 +133,13 @@ E to H join room feasibility check
 
  feasibility check for "R stairway with moving platforms" <img width="564" alt="RoomOfPain needed hill spikes to block melee dash and bHops to constrain the player to intented experience" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/fc6aca43-f503-4c3d-adf3-3c887e4ee7f1">
 
+Not viable removed puzzle idea
+![Box does  not block spawner](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/46f0f193-2afe-406c-b925-3155e926388d)
 
+Refined design to better act as a puzzle.
+<img width="449" alt="MakingITLessObvious " src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/50c9f15d-84cd-4c93-9383-34b2e462f5e3">
+
+Making the initial Map design work.
+<img width="435" alt="MakingThisMAP WORK" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/b8779a0b-5dda-4bb9-8870-98b4fbb2d419">
 
 
