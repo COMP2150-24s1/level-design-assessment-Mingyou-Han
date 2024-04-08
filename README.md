@@ -67,6 +67,10 @@ Reward exploration via
 - Power unlock (gun unlock)
 - aesthetic vistas
 
+Rewarding Exploration by adding an easier path, also just increasing marker can not make the Obby within 5 min timing window
+
+<img width="639" alt="Rewarding Exploration by adding an easier path, also just increase marker can not make the obby in 5 min time" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/c1b048a7-7c65-46be-bd20-ceef7afdb25d">
+
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
