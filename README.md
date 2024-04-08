@@ -53,12 +53,19 @@ The beautiful background vistas itself vistas can act as a form of reward to exp
 
 <img width="553" alt="BACKground ITself vistas can acts as a form of discovery " src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/69d780bc-abba-493d-a619-a2724c3438a4">
 
-Although the rewards is limited due to lack of collectables and upgrades, 
-I have decided to use the geometry of letters to spell the word ‘Hero’ as player exploration around the letter should form to puzzle together the final word, creating a desire to explore and find out what the letter spelt. I have also added shortcuts via breakable obstacles which players can keep an eye out for.
+Although the rewards are limited due to lack of collectables and upgrades, 
+I have decided to use the geometry of letters to spell the word ‘Hero’ as player exploration around the letter should form to puzzle together the final word, creating a desire to explore and find out what the letter spelt. 
+
+I have also added shortcuts via breakable obstacles which players can keep an eye out for.
 
 ### Puzzle piece to spell out the word *Hints at the map layout.
 Knowledge gained can also be a form of reward.
 <img width="395" alt="Knowledge Assistance to spellOut the word" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/0f50365a-6561-4e50-9a74-242ad686dea8">
+
+Reward exploration via 
+- knowledge gained
+- Power unlock (gun unlock)
+- aesthetic vistas
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
