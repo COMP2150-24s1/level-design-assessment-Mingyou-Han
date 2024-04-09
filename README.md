@@ -78,21 +78,34 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+### 2.3. Spitter
+<img width="416" alt="Screenshot 2024-04-09 225646" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/5cfca2da-56ec-48c6-94b3-0ef5cae7d822">
 
-### 2.2. Checkpoints
+### 2.5. Keys
 
-### 2.3. Chompers
+### 2.8. Spikes
+<img width="446" alt="Spikes and Heal" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/ade30dce-2201-48a9-834e-03ecc4867722">
 
 ### 2.4. Health Pickups
 
-### 2.5. Keys
+### 2.2. Checkpoints
+
+### 2.1. Acid and Chomper
+Chomper dash attack player and dies in acid. A safe way for player to know hostile environment.
+<img width="350" alt="Attack Dash and dies" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/c3c70dd0-4ee4-4094-ba1a-699ab9cc0728">
+
+### 2.3. Chompers
+
+
+
+
+
+
 
 ### 2.6. Moving Platforms
 
 ### 2.7. Passthrough Platforms
 
-### 2.8. Spikes
 
 ![knockBACKidea for exploration](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/845fe074-1b8a-45a7-aa7e-f2aad4367a00)
 
