@@ -2,15 +2,16 @@
 ### Name: [Mingyou Han]
 ### Student number: [46991808] 
 
+
 ## 1. Player Experience
 
 ### 1.1. Discovery
 
-Discovery is a type of soft-fun where the reward is insight and knowledge gained.Therefore, in this game, the fun of discovery is aimed firstly at uncovering more of the game's mechanics such as jump-melee-dash. Learning more about hidden dynamics within the game rewards players as players gain insight. Breakables are placed to help facilitate the learning process of the melee dash. 
+Discovery is a type of soft fun where the reward is insight and knowledge gained. Therefore, in this game, the fun of discovery is aimed firstly at uncovering more of the game's mechanics such as jump-melee-dash. Learning more about hidden dynamics within the game rewards players as players gain insight. Breakables are placed to help facilitate the learning process of the melee dash. 
 ![First introduction to melee and how it impacts air movement](<Melee Dash .png>)
 ![How Dash needs to be used](Dash.png)
 
-These serves are a call back to the initial start of the level where players may recall (or through a second playthrough)  that they can “cheat” the game by melee-dashing right after spawn to unlock “path 2”. Which the level is designed to complete quicker as all 3 keys are piled at the top section.
+These serves are a call back to the initial start of the level where players may recall (or through a second playthrough)  that they can “cheat” the game by melee-dashing right after spawn to unlock “path 2”. Which the level is designed to be completed quicker as all 3 keys are piled at the top section.
 
 ![Path2](DASHpath2.png)
 
@@ -27,18 +28,19 @@ Furthermore, the room switch mechanic that is triggered by switches adds to the 
 
 This switch toggles the room to foreshadow the switch in conjunction with a unique background. This is to draw attention to the feature and remind the player that the room is the same. Creating subversion and hinting at other potential secrets hiding in plain sight, encouraging exploration through discovery.
 
+
 ### 1.2. Drama
 
-Firstly, relief was created by the design of the center room which provides both the function of an overlook point to the entire level and a break room to create "safety". This box uses positive space in the center of the map to create a safe environment as the space in itself is emphasised.
+Firstly, relief was created by the design of the centre room which provides both the function of an overlook point to the entire level and a break room to create "safety". This box uses positive space in the centre of the map to create a safe environment as the space in itself is emphasised.
 
 ![example of positive spacing](<positive Space.png>)
 ![In Game Example](Center.png)
 
-This relief is placed right after a “power moment” that the player experiences after pickup the gun and killing a tunnel packed with chompers and spitters. 
+This relief is placed right after a “power moment” that the player experiences after picking up the gun and killing a tunnel packed with chompers and spitters. 
 
 ![Power Moment](<Power Moment.png>)
 
-This power moment is enhanced by the fact that players are designed to die to chompers before this encounter. Offering a chance of vengeance, taking inspiration from Sakiro, where the player dying is a narrative element that enhances the overall experience and adds subversion to narrative as a fun experience.
+This power moment is enhanced by the fact that players are designed to die to chompers before this encounter. Offering a chance of vengeance, taking inspiration from Sakiro, where the player dying is a narrative element that enhances the overall experience and adds subversion to the narrative as a fun experience.
 
 ![Kill Pit](<Added Acid to Quicken the process.png>)
 
@@ -52,22 +54,24 @@ This switch unlike all the other previous switches spawns in an encounter to spi
 
 which is similar to this switch that creates an acid pool as players progress through the level 3 platform Obby in order to increase tension and challenge.
 
+
 ### 1.3. Challenge
 
 A Challenge is a type of hard fun which is driven by frustration, obstacles and practice. I have designed this level to require jumping shots alongside interference from moving platforms that block the bullets.
 
 ![Challenge Timing](<Challenge Timing.png>)
 
-This final level was set up and introduced after the player was given similar practice shots of the jump and shooting mechanic, ramping up the difficulty curve to keep player in flow state.
+This final level was set up and introduced after the player was given similar practice shots of the jump and shooting mechanic, ramping up the difficulty curve to keep the player in a flow state.
 
 ![Practices to Jumping Shots](PracticeJumpShots.png)
 
 Circled in red is the target which the player needs to shoot alongside the spitters, this also introduces bullet interaction to the switch as the player may accidentally shoot the switch in the process. And in green are the platforms spawning as the switches are hit, foreshadowing the mechanics of the following level.
-The main challenge is also controlling the jumping as players already learnt the basic movements. The one block jump on horizontal moving platforms requires an intuitive understanding of jump distance and patience to pass the final Room.
+The main challenge is also controlling the jumping as players already learnt the basic movements. The one-block jump on horizontal moving platforms requires an intuitive understanding of jump distance and patience to pass the final Room.
 
 ![alt text](<JUMPING and timing and one block jump.png>)
 
-This image illustrates the jumping shot that need to be made on the first moving platform, then player needs to jump from the second platform to the one-block width platform that is moving vertically.
+This image illustrates the jumping shot that needs to be made on the first moving platform, then the player needs to jump from the second platform to the one-block width platform that is moving vertically.
+
 
 ### 1.4. Exploration
 
@@ -76,7 +80,7 @@ The beautiful background vistas itself can act as a form of reward to exploratio
 
 ![alt text](<vista but the weathered design aims to create an underground mountainside map level.png>)
 
-In conjunction with discovery, optional paths and small puzzles such as the knockback jump were added to reward players with the gun unlock earlier.
+In conjunction with discovery, optional paths and small puzzles such as the knockback jump were added to reward players with the gun unlocked earlier.
 
 ![alt text](<Exploration teaching player the damage jump.png>)
 
@@ -86,9 +90,10 @@ Furthermore, a specific “hidden” room was created to reward more curious pla
 ![Cow Level](CowLEVEL.png)
 
 This rewards a quick unlock to the shortcut and a hidden “cow level” with an extra key as a homage to the Diablo games. 
-Also the circle layout and two potential paths was introduced in the hope of breaking linearity by adding more exportation opportunities.
+Also, the circle layout and two potential paths was introduced in the hope of breaking linearity by adding more exportation opportunities.
 
 ![alt text](<Branching PATH.png>)
+
 
 ## 2. Core Gameplay (~400 words)
 
@@ -102,6 +107,7 @@ Staff was given to the player in the initial spawn to introduce the dash jump an
 
 The fall is important to show the player's dash carries momentum while airborne. 
 Breakable obstacles are placed to force the player to perform the required mechanic to achieve the above goal.
+
 
 ### 2.2. Spitter, Passthrough Platforms, spikes and Health Pickup
 
@@ -117,6 +123,7 @@ The passthrough platform is placed to force the player to take damage so that th
 This also gives a chance to demonstrate damage knockback and invincibility frames.
 
 Checkpoint will be introduced later.
+
 
 ### 2.3. Acid and Chomper
 
@@ -134,7 +141,8 @@ Afterwards, the damage from the spike acts as a boost to the player. Allowing th
 
 The player then falls to death, to return to the previous checkpoint.
 
-sidenote: the trigger is placed on the landing zone to trigger the spike removal seen in next section.
+sidenote: the trigger is placed on the landing zone to trigger the spike removal seen in the next section.
+
 
 ### 2.4. Moving Platforms and checkpoints (also gun pickup)
 
