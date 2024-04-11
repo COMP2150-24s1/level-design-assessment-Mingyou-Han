@@ -2,119 +2,146 @@
 ### Name: [Mingyou Han]
 ### Student number: [46991808] 
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
-
-## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
-
-Jump and melee dash to increase the distance covered, introduced by the breakable structure at the start right next to a jump that is too far for normal jumping.
+## 1. Player Experience
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-The map is circular where advanced mechanics such as jump melee dash need to be hit perfectly to jump from the start to the "end" of the tail. 
+Discovery is a type of soft-fun where the reward is insight and knowledge gained.Therefore, in this game, the fun of discovery is aimed firstly at uncovering more of the game's mechanics such as jump-melee-dash. Learning more about hidden dynamics within the game rewards players as players gain insight. Breakables are placed to help facilitate the learning process of the melee dash. 
+![First introduction to melee and how it impacts air movement](<Melee Dash .png>)
+![How Dash needs to be used](Dash.png)
 
-Discovery is facilitated through experimenting with different controls, and discovering more dynamics created also creating fun via subversion specifically for the markers who probably play a dozen or so times of the same game.
+These serves are a call back to the initial start of the level where players may recall (or through a second playthrough)  that they can “cheat” the game by melee-dashing right after spawn to unlock “path 2”. Which the level is designed to complete quicker as all 3 keys are piled at the top section.
 
-![knockBACKidea for exploration](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/c064cbc1-e173-4ef0-be2e-cc93185ed9d7)
+![Path2](DASHpath2.png)
 
-This allows players who choose to have a challenge, especially a more experimental and experimental player with more skill levels. 
-The gun provided later adds to the challenge.
+Another game dynamic that facilitates discovery uses the same formula as the previous one. The damage knockback is used to create a mini-puzzle which the player can complete after. (Elaborate further in the exploration section)
 
-I chose a circular design to fit the narrative of a hero`s journey where the end is a return to the beginning allowing for a sense of progression and reward. Introducing multiple mechanics such as dash jump and using spikes to wall jump. 
+![introduction to knockback jump](<Damage JUMP.png>)![Exploration as players use the mechanic](<Exploration teaching player the damage jump.png>)
 
+Furthermore, the room switch mechanic that is triggered by switches adds to the element of discovery and subversion, hinting at more secrets to unlock which potentially creates reward incentives for exploration.
+
+**Pre-toggle** the switch that quickly switches back and forth the scene
+![Switch that quickly switches back and forth the scene](<Toggling to foreshadow.png>)
+**Post** What the "switch" do
+![What the "switch" do](TheSwitch.png)
+
+This switch toggles the room to foreshadow the switch in conjunction with a unique background. This is to draw attention to the feature and remind the player that the room is the same. Creating subversion and hinting at other potential secrets hiding in plain sight, encouraging exploration through discovery.
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
-The centre room provides both the function of an overlook point to the entire level and a break room to create a "safety" This box uses negative space to crave out the centre of the map emphasising the importance of space and creating a "home" base.
+Firstly, relief was created by the design of the center room which provides both the function of an overlook point to the entire level and a break room to create "safety". This box uses positive space in the center of the map to create a safe environment as the space in itself is emphasised.
 
+![example of positive spacing](<positive Space.png>)
+![In Game Example](Center.png)
+
+This relief is placed right after a “power moment” that the player experiences after pickup the gun and killing a tunnel packed with chompers and spitters. 
+
+![Power Moment](<Power Moment.png>)
+
+This power moment is enhanced by the fact that players are designed to die to chompers before this encounter. Offering a chance of vengeance, taking inspiration from Sakiro, where the player dying is a narrative element that enhances the overall experience and adds subversion to narrative as a fun experience.
+
+![Kill Pit](<Added Acid to Quicken the process.png>)
+
+Other drama elements are added such as adding randomness to the switches to create uncertainty for fun.
+
+![Suprise Encounter](<Drama Suprised Encounter.png>)
+
+This switch unlike all the other previous switches spawns in an encounter to spice up the area and create drama.  
+
+![Acid pit that spawns on trigger](ACID.png)
+
+which is similar to this switch that creates an acid pool as players progress through the level 3 platform Obby in order to increase tension and challenge.
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
-The main challenge is controlling the dash jump as players already learnt the basic movements. Requires intuitive understanding of jump distance and patience to pass the final Room 3. 
+A Challenge is a type of hard fun which is driven by frustration, obstacles and practice. I have designed this level to require jumping shots alongside interference from moving platforms that block the bullets.
+
+![Challenge Timing](<Challenge Timing.png>)
+
+This final level was set up and introduced after the player was given similar practice shots of the jump and shooting mechanic, ramping up the difficulty curve to keep player in flow state.
+
+![Practices to Jumping Shots](PracticeJumpShots.png)
+
+Circled in red is the target which the player needs to shoot alongside the spitters, this also introduces bullet interaction to the switch as the player may accidentally shoot the switch in the process. And in green are the platforms spawning as the switches are hit, foreshadowing the mechanics of the following level.
+The main challenge is also controlling the jumping as players already learnt the basic movements. The one block jump on horizontal moving platforms requires an intuitive understanding of jump distance and patience to pass the final Room.
+
+![alt text](<JUMPING and timing and one block jump.png>)
+
+This image illustrates the jumping shot that need to be made on the first moving platform, then player needs to jump from the second platform to the one-block width platform that is moving vertically.
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
-The beautiful background vistas itself vistas can act as a form of reward to exploration 
+To reward and encourage exploration I have considered using extrinsic rewards like unlocking the gun and health pickups, although limited, and intrinsic rewards through discovery and aesthetic choices.  
+The beautiful background vistas itself can act as a form of reward to exploration. The weathered look to the background and the cave outlook at the initial spawn point was made to create a sense of environment, playing to a limited idea of cave diving.
 
-<img width="553" alt="BACKground ITself vistas can acts as a form of discovery " src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/69d780bc-abba-493d-a619-a2724c3438a4">
+![alt text](<vista but the weathered design aims to create an underground mountainside map level.png>)
 
-Although the rewards are limited due to lack of collectables and upgrades, 
-I have decided to use the geometry of letters to spell the word ‘Hero’ as player exploration around the letter should form to puzzle together the final word, creating a desire to explore and find out what the letter spelt. 
+In conjunction with discovery, optional paths and small puzzles such as the knockback jump were added to reward players with the gun unlock earlier.
 
-I have also added shortcuts via breakable obstacles which players can keep an eye out for.
+![alt text](<Exploration teaching player the damage jump.png>)
 
-### Puzzle piece to spell out the word *Hints at the map layout.
-Knowledge gained can also be a form of reward.
-<img width="395" alt="Knowledge Assistance to spellOut the word" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/0f50365a-6561-4e50-9a74-242ad686dea8">
+Furthermore, a specific “hidden” room was created to reward more curious players who learnt and recalled that breakable blocks were placed right next to the centre room. A Metroidvania-like design, where new abilities, in this case, insight, were learnt and traversal back to an area before progressing further in the game.
 
-Reward exploration via 
-- knowledge gained
-- Power unlock (gun unlock)
-- aesthetic vistas
+![The Hidden Room](HiddenRoom.png)
+![Cow Level](CowLEVEL.png)
 
-Rewarding Exploration by adding an easier path, also just increasing marker can not make the Obby within 5 min timing window
+This rewards a quick unlock to the shortcut and a hidden “cow level” with an extra key as a homage to the Diablo games. 
+Also the circle layout and two potential paths was introduced in the hope of breaking linearity by adding more exportation opportunities.
 
-<img width="639" alt="Rewarding Exploration by adding an easier path, also just increase marker can not make the obby in 5 min time" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/c1b048a7-7c65-46be-bd20-ceef7afdb25d">
+![alt text](<Branching PATH.png>)
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
-
-### 2.3. Spitter
-<img width="416" alt="Screenshot 2024-04-09 225646" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/5cfca2da-56ec-48c6-94b3-0ef5cae7d822">
-
-### 2.5. Keys
-
-### 2.8. Spikes
-<img width="446" alt="Spikes and Heal" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/ade30dce-2201-48a9-834e-03ecc4867722">
-
-### 2.4. Health Pickups
-
-### 2.2. Checkpoints
-
-### 2.1. Acid and Chomper
-Chomper dash attack player and dies in acid. A safe way for player to know hostile environment.
-<img width="350" alt="Attack Dash and dies" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/c3c70dd0-4ee4-4094-ba1a-699ab9cc0728">
-
-### 2.3. Chompers
 
 
+### 2.1. Weapon Pickup (Staff)
+
+Staff was given to the player in the initial spawn to introduce the dash jump and breakable obstacles. This also allows for the alternative path opinion if the player already understood the dash jump.
+
+![alt text](Spawn.gif)
+![alt text](SpawnStoryBoard.jpg)
+
+The fall is important to show the player's dash carries momentum while airborne. 
+Breakable obstacles are placed to force the player to perform the required mechanic to achieve the above goal.
+
+### 2.2. Spitter, Passthrough Platforms, spikes and Health Pickup
+
+Spitter and enemy are introduced as the player is falling, spitting projectile while remaining safe.
 
 
+![Section1_a1](Area1.gif)
+![comic still](Area1.jpg)
 
 
+The passthrough platform is placed to force the player to take damage so that the player can collect the healing afterwards.
 
-### 2.6. Moving Platforms
+This also gives a chance to demonstrate damage knockback and invincibility frames.
 
-### 2.7. Passthrough Platforms
+Checkpoint will be introduced later.
+
+### 2.3. Acid and Chomper
+
+Chomper dash attacks the player but falls in acid and dies. A safe way for the player to know the hostile environment, inspired by Half-life the barnacle eating the bird.
+
+![Area2 still comic](Area2.jpg)
+![A2 extended](Area2.1-1.jpg)
 
 
-![knockBACKidea for exploration](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/845fe074-1b8a-45a7-aa7e-f2aad4367a00)
+![Area 2 comic gif](Area2-1.gif)
 
+the breakable obstacles are placed to hint to the player that a dash attack is needed to solve the jumping puzzle, as the player learnt to melee the obstacles.
 
-### 2.9. Spitters
+Afterwards, the damage from the spike acts as a boost to the player. Allowing the key to be grabbed.
 
-### 2.10. Weapon Pickup (Gun)
+The player then falls to death, to return to the previous checkpoint.
 
-### 2.11. Weapon Pickup (Staff)
+sidenote: the trigger is placed on the landing zone to trigger the spike removal seen in next section.
+
+### 2.4. Moving Platforms and checkpoints (also gun pickup)
+
+![alt text](Area1.2.gif)
+![alt text](<Area 1 . changed.jpg>)
+
+As the player teleports back to the checkpoint the spikes are removed and replaced by the moving platform acting as an elevator with a button to stop it from moving. The button was included to enhance the “power moment” for more control while the player is shooting and rapidly killing enemies.  
 
 ## 3. Spatiotemporal Design
  
@@ -127,15 +154,21 @@ Chomper dash attack player and dies in acid. A safe way for player to know hosti
 ### 3.3.	Level Map – Section 2
 ![room of pain](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/0d91ef5c-9ac2-4841-a275-892baf8f4dc9)
 
+#### Level Plan 
+![alt text](Level2StoryBoard.png)
+
 ### 3.4.	Level Map – Section 3
 ![level 3](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/eb9b703a-ddeb-49ad-90d8-84bfd954f1da)
+
+#### Level Plan
+![alt text](Level3StoryBoard.png)
+
 ## Level Map Compiled
+
 ![Overall Map Compiled](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/d56363f5-49a9-4e13-a782-d902361983a4)
 
-## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+## 4. Iterative Design
 
 <br /> Throw away prototyping 
 
@@ -166,4 +199,5 @@ Refined design to better act as a puzzle.
 Making the initial Map design work.
 <img width="435" alt="MakingThisMAP WORK" src="https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/b8779a0b-5dda-4bb9-8870-98b4fbb2d419">
 
-
+Early scrapebook idea for the knockback jump
+![knockBACKidea for exploration](https://github.com/COMP2150-24s1/level-design-assessment-Mingyou-Han/assets/153143368/c064cbc1-e173-4ef0-be2e-cc93185ed9d7)
